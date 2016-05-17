@@ -2,6 +2,12 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/D:/xampp/htdocs/GitHub/CropGit/App/Modules/Anusit/Controllers/Anusit.php</file>
+            <file>file:/D:/xampp/htdocs/GitHub/CropGit/App/Modules/Anusit/Controllers/Add.php</file>
+            <file>file:/D:/xampp/htdocs/GitHub/CropGit/App/Modules/Anusit/Controllers/Delete.php</file>
+            <file>file:/D:/xampp/htdocs/GitHub/CropGit/App/Modules/Anusit/Controllers/Edit.php</file>
+            <file>file:/D:/xampp/htdocs/GitHub/CropGit/App/Modules/Home/Views/Home.php</file>
+        </group>
     </open-files>
 </project-private>

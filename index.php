@@ -3,7 +3,7 @@
 session_start();
 session_regenerate_id(TRUE);
 date_default_timezone_set('Asia/Bangkok');
-
+error_reporting(E_ALL & ~E_NOTICE);
 try{
 
     require_once 'System/Base/AuxPHP.php';
