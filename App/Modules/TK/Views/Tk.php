@@ -6,7 +6,7 @@
  * Time: 9:19
  */
 
-echo "Hello Test2";
+echo "Hello Tk";
 ?>
 <a href="<?php echo $this->route->Add(); ?>">Add</a>
 <table>

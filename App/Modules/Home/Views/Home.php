@@ -6,4 +6,5 @@
 <A href="?ProblemType">Problem_Type</A><br>
 <A href="?TypeFertilizer">TypeFertilizer</A><br>
 <A href="?Soil">Soil</A><br>
-<A href="?Test2">Test2</A><br>
+<A href="?Tk">Tk</A><br>
+<A href="?Anusit">Anusit</A><br>

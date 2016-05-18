@@ -6,7 +6,7 @@
  * Time: 9:39
  */
 
-namespace App\Modules\Test2\Controllers;
+namespace App\Modules\Tk\Controllers;
 
 
 use App\Models\problem_type;

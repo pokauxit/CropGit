@@ -6,13 +6,13 @@
  * Date: 18/5/2559
  * Time: 9:18
  */
-namespace App\Modules\Test2\Controllers;
+namespace App\Modules\Tk\Controllers;
 
 use App\Models\problem_type;
 use System\HMVC\HMVC;
 
 
-class Test2 extends HMVC
+class Tk extends HMVC
 {
     protected $db;
     protected $rowId;
