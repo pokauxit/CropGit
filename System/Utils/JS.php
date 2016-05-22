@@ -47,6 +47,10 @@
          return   '<script type="text/javascript" src="System/Utils/JS.js"></script>';
      }
      
+     public static function jquery(){
+          return   '<script type="text/javascript" src="System/Utils/jquery-2.2.3.js"></script>';
+     }
+     
  }
 
  ?>
