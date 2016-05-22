@@ -8,3 +8,5 @@
 <A href="?Soil">Soil</A><br>
 <A href="?Tk">Tk</A><br>
 <A href="?Anusit">Anusit</A><br>
+<A href="?Counter">Counter</A><br>
+<A href="?WelcomePage">WelcomePage</A><br>
