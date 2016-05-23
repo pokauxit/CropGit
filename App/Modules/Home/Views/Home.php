@@ -10,3 +10,4 @@
 <A href="?Anusit">Anusit</A><br>
 <A href="?Counter">Counter</A><br>
 <A href="?WelcomePage">WelcomePage</A><br>
+<a href="?ProvinceDistrict">Province</a>

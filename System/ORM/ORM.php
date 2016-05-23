@@ -227,6 +227,16 @@ class ORM extends DB {
          return $this->fetch($this->query($sql));
     }
     
+	
+    /**
+     * @param $condition เงื่อนไขในการค้นหา ex. id = 1 หรือ price >= 200 หรือ name like xxx
+     * @return mysql_result
+     */
+    public function find($condition){
+        $sql = "SELECT ".$this->select." FROM " . $this->name . " WHERE " . $condition;
+        return $this->fetch($this->query($sql));
+    }
+	
     private function chkQuote($type)
 	{
 		if($this->chkTime($type)||$this->chkChar($type))
